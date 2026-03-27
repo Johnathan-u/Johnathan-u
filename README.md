@@ -88,7 +88,7 @@ Roadmap visibility and backlog organization
 
 Web UI · planning workflows
 
-https://github.com/Johnathan-u/trust-copilot-backlog
+https://johnathan-u.github.io/trust-copilot-backlog/
 
 </td>
 
