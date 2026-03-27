@@ -109,7 +109,7 @@ https://johnathan-u.github.io/trust-copilot-backlog/
 
 ## Current focus
 
-Building Trust Copilot into a complete compliance workflow system with strong UX, reliable backend systems, and AI-assisted workflows.
+Driving the end-to-end development of Trust Copilot, an enterprise SaaS platform, with emphasis on system design, AI integration, and delivering real-world, production-grade solutions to distributed teams
 
 ---
 
